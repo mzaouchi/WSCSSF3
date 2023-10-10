@@ -1,0 +1,91 @@
+*{
+    font-family: fantasy;
+    background-color: blueviolet;
+}
+nav{
+    margin-left: 800px;
+}
+
+nav a{
+    margin-left: 40px;
+    font-size: 26px;
+    text-decoration: none;
+    color: tomato;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+h2{
+    font-size: 30px;
+    color: grey;
+    margin-left: 59px;
+    text-decoration: underline;
+}
+
+#imgMaher{
+    width: 200px;
+    height: 300px;
+    border: 31px solid aqua;
+    border-radius: 26%;
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    width: 40%;
+    margin-left: 115px;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+table,th,td{
+    border: 1px solid crimson;
+    border-collapse: collapse;
+}
+
+table{
+    width: 40%;
+    margin: auto;
+}
+
+form{
+    width: 22%;
+    margin: auto;
+}
+
+input{
+    margin-left: 39px;
+    margin-bottom: 10px;
+}
+
+#dali{
+    margin-left: 14px;
+}
+
+button{
+    background-color: black;
+    color: bisque;
+    font-size: 21px;
+    border: 5px solid bisque;
+    border-radius: 19px;
+}
+
+button:hover{
+    background-color: bisque;
+    color: black;
+    border: 5px solid black;
+
+}
+
+footer{
+    text-align: center;
+    font-size: 40px;
+}
